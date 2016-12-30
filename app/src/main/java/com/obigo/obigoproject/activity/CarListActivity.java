@@ -23,7 +23,6 @@ import butterknife.ButterKnife;
 
 import static com.obigo.obigoproject.util.ConstantsUtil.USER_ID;
 
-
 /**
  * Created by O BI HE ROCK on 2016-11-28
  * 김용준, 최현욱
